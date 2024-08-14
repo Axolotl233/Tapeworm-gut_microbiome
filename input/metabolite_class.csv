@@ -1,0 +1,502 @@
+metabolites,SuperClass,Class,SubClass,DirectParent,KEGG,HMDB
+Tetradecanoylcarnitine,Lipids and lipid-like molecules,Fatty Acyls  ,Fatty acid esters,Acyl carnitines,,HMDB0005066
+Oleylcarnitine,Lipids and lipid-like molecules,Fatty Acyls  ,Fatty acid esters,Acyl carnitines,,HMDB0005065
+Linoleyl_carnitine,Lipids and lipid-like molecules,Fatty Acyls  ,Fatty acid esters,Acyl carnitines,,HMDB0006469
+Stearylcarnitine,Lipids and lipid-like molecules,Fatty Acyls  ,Fatty acid esters,Acyl carnitines,,HMDB0000848
+Glutamyltryptophan,Organic acids and derivatives,Carboxylic acids and derivatives  ,"Amino acids, peptides, and analogues",Peptides,,HMDB0028830
+Leucylalanine,Organic acids and derivatives,Carboxylic acids and derivatives  ,"Amino acids, peptides, and analogues",Peptides,,HMDB0028922
+Phenylalanylalanine,Organic acids and derivatives,Carboxylic acids and derivatives  ,"Amino acids, peptides, and analogues",Dipeptides,,HMDB0028988
+gamma_Glutamyl_phenylalanine,Organic acids and derivatives ,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues? ",Phenylalanine and derivatives,,HMDB0029562
+Glycyl_Phenylalanine,Organic acids and derivatives,Carboxylic acids and derivatives  ,"Amino acids, peptides, and analogues",Dipeptides,,HMDB0028848
+Leucylphenylalanine,Organic acids and derivatives,Carboxylic acids and derivatives  ,"Amino acids, peptides, and analogues",Dipeptides,,HMDB0013243
+Aspartylphenylalanine,Organic acids and derivatives,Carboxylic acids and derivatives  ,"Amino acids, peptides, and analogues",Peptides,,HMDB0000706
+Butyrylcarnitine,Lipids and lipid-like molecules,Fatty Acyls  ,Fatty acid esters,Acyl carnitines,C02862,HMDB0002013
+Valerylcarnitine,Lipids and lipid-like molecules,Fatty Acyls  ,Fatty acid esters,Fatty acid esters,,HMDB0013128
+Isovalerylcarnitine,Lipids and lipid-like molecules,Fatty Acyls  ,Fatty acid esters,Fatty acid esters,,HMDB0000688
+Hexanoylcarnitine,Lipids and lipid-like molecules,Fatty Acyls  ,Fatty acid esters,Acyl carnitines,,HMDB0000756
+Octanoylcarnitine,Lipids and lipid-like molecules,Fatty Acyls  ,Fatty acid esters,Acyl carnitines,C02838,HMDB0000791
+Decanoylcarnitine,Lipids and lipid-like molecules,Fatty Acyls  ,Fatty acid esters,Acyl carnitines,,HMDB0000651
+Cholesterol_sulfate,Lipids and lipid-like molecules ,Steroids and steroid derivatives,Cholestane steroids,Cholesterols and derivatives,C18043,HMDB0000653
+Flavone,Phenylpropanoids and polyketides,Flavonoids,Flavones,Flavones,C15608,HMDB0003075
+2_Aminophenol,,,,,C01987,
+Vanillin,Benzenoids,Phenols,Methoxyphenols,Methoxyphenols,C00755,HMDB0012308
+Spermidine,Organic nitrogen compounds,Organonitrogen compounds,Amines,Dialkylamines,C00315,HMDB0001257
+Epinephrine,Benzenoids,Phenols,Benzenediols,Catechols,C00788,HMDB0000068
+Norepinephrine,Benzenoids,Phenols,Benzenediols,Catechols,C00547,HMDB0000216
+3_Aminosalicylic_acid,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Aminosalicylic acids,,HMDB0001972
+Dopamine,Benzenoids,Phenols,Benzenediols,Catecholamines and derivatives,C03758,HMDB0000073
+Gallic_acid,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Gallic acids,C01424,HMDB0005807
+Citraconic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Methyl-branched fatty acids,C02226,HMDB0000634
+Serotonin,Organoheterocyclic compounds,Indoles and derivatives,Tryptamines and derivatives,Serotonins,C00780,HMDB0000259
+Chlorogenic_acid,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,Quinic acids and derivatives,C00852,HMDB0003164
+2_Hydroxy_2_methylbutyric_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Hydroxy fatty acids,,HMDB0001987
+Taurocholic_acid_TCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives","Trihydroxy bile acids, alcohols and derivatives",C05122,HMDB0000036
+m_Aminobenzoic_acid,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Aminobenzoic acids,,HMDB0001891
+3_Methoxytyramine,Benzenoids,Phenols,Methoxyphenols,Methoxyphenols,C05587,HMDB0000022
+3_Hydroxyanthranilic_acid,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Hydroxybenzoic acid derivatives,C00632,HMDB0001476
+Protocatechuic_acid,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Hydroxybenzoic acid derivatives,C00230,HMDB0001856
+2_Hydroxyphenethylamine,Organic nitrogen compounds,Organonitrogen compounds,Amines,Aralkylamines,C02735,HMDB0001065
+Mandelic_acid,Benzenoids,Benzene and substituted derivatives,,Benzene and substituted derivatives,C01984,HMDB0000703
+N_Methylnicotinamide,Organoheterocyclic compounds,Pyridines and derivatives,Pyridinecarboxylic acids and derivatives,Nicotinamides,,HMDB0003152
+3_Nitrotyrosine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Tyrosine and derivatives,,HMDB0001904
+N_Formyl_methionine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Methionine and derivatives,C03145,HMDB0001015
+2_Hydroxy_3_methylbutyric_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Hydroxy fatty acids,,HMDB0000407
+Indoxyl_sulfate,Organic acids and derivatives,Organic sulfuric acids and derivatives,Arylsulfates,Arylsulfates,,HMDB0000682
+5_Deoxyadenosine,"Nucleosides, nucleotides, and analogues",5'-deoxyribonucleosides,,5'-deoxyribonucleosides,C05198,HMDB0001983
+Xanthurenate,Organoheterocyclic compounds,Quinolines and derivatives,Quinoline carboxylic acids,Quinoline carboxylic acids,C02470,HMDB0000881
+2_Hydroxy_4_methylthiobutanoic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Thia fatty acids,,HMDB0037115
+Hydroxyphenyllactic_acid,Phenylpropanoids and polyketides,Phenylpropanoic acids,,Phenylpropanoic acids,C03672,HMDB0000755
+Pyrrole_2_carboxylic_acid,Organoheterocyclic compounds,Pyrroles,Pyrrole carboxylic acids and derivatives,Pyrrole 2-carboxylic acids,C05942,HMDB0004230
+Methylglutaric_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Methyl-branched fatty acids,,HMDB0000752
+N_Acetyltyrosine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Tyrosine and derivatives,C01657,HMDB0000866
+Adipic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,C06104,HMDB0000448
+p_Hydroxyphenylacetic_acid,Benzenoids,Phenols,1-hydroxy-2-unsubstituted benzenoids,1-hydroxy-2-unsubstituted benzenoids,C00642,HMDB0000020
+3_3_Hydroxyphenyl_3_hydroxypropanoic_acid,Phenylpropanoids and polyketides,Phenylpropanoic acids,,Phenylpropanoic acids,,HMDB0002643
+Benzamide,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Benzamides,C09815,HMDB0004461
+Phenylethylamine,Benzenoids,Benzene and substituted derivatives,Phenethylamines,Phenethylamines,C05332,HMDB0012275
+N_Acetylmethionine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Methionine and derivatives,C02712,HMDB0011745
+2_Pyrocatechuic_acid,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Salicylic acids,C00196,HMDB0000397
+3_Hydroxybenzoic_acid,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Hydroxybenzoic acid derivatives,C00587,HMDB0002466
+4_Hydroxybenzoic_acid,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Hydroxybenzoic acid derivatives,C00156,HMDB0000500
+Phenol,Benzenoids,Phenols,1-hydroxy-4-unsubstituted benzenoids,1-hydroxy-4-unsubstituted benzenoids,C00146,HMDB0000228
+Phthalic_acid,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Benzoic acids,C01606,HMDB0002107
+Theophylline,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,Xanthines,C07130,HMDB0001889
+Indole_3_carboxylic_acid,Organoheterocyclic compounds,Indoles and derivatives,Indolecarboxylic acids and derivatives,Indolecarboxylic acids and derivatives,C19837,HMDB0003320
+N_Acetylserotonin,Organoheterocyclic compounds,Indoles and derivatives,Hydroxyindoles,Hydroxyindoles,C00978,HMDB0001238
+Hippuric_acid,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Hippuric acids,C01586,HMDB0000714
+Indoxyl_beta_D_glucoside,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,O-glycosyl compounds,C08481,HMDB0061755
+Quinoline,Organoheterocyclic compounds,Quinolines and derivatives,,Quinolines and derivatives,C06413,HMDB0033731
+Phenylpyruvic_acid,Benzenoids,Benzene and substituted derivatives,Phenylpyruvic acid derivatives,Phenylpyruvic acid derivatives,C00166,HMDB0000205
+4_Hydroxyphenylpyruvic_acid,Benzenoids,Benzene and substituted derivatives,Phenylpyruvic acid derivatives,Phenylpyruvic acid derivatives,C01179,HMDB0000707
+Homovanillic_acid,Benzenoids,Phenols,Methoxyphenols,Methoxyphenols,C05582,HMDB0000118
+Phenylacetylglycine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",N-acyl-alpha amino acids,C05598,HMDB0000821
+Tryptamine,Organoheterocyclic compounds,Indoles and derivatives,Tryptamines and derivatives,Tryptamines and derivatives,C00398,HMDB0000303
+3_4_Dihydroxyhydrocinnamic_acid,Phenylpropanoids and polyketides,Phenylpropanoic acids,,Phenylpropanoic acids,C10447,HMDB0000423
+Quinaldic_acid,Organoheterocyclic compounds,Quinolines and derivatives,Quinoline carboxylic acids,Quinoline carboxylic acids,C06325,HMDB0000842
+Vanillic_acid,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,M-methoxybenzoic acids and derivatives,C06672,HMDB0000484
+N_Methyltryptamine,Organoheterocyclic compounds,Indoles and derivatives,Tryptamines and derivatives,Tryptamines and derivatives,C06213,HMDB0004370
+5_Methylthioadenosine,"Nucleosides, nucleotides, and analogues",5'-deoxyribonucleosides,5'-deoxy-5'-thionucleosides,5'-deoxy-5'-thionucleosides,C00170,HMDB0001173
+Caffeate,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Hydroxycinnamic acids and derivatives,Hydroxycinnamic acids,C01481,HMDB0001964
+Caffeine,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,Xanthines,C07481,HMDB0001847
+4_Hydroxybenzaldehyde,Organic oxygen compounds,Organooxygen compounds,Carbonyl compounds,Hydroxybenzaldehydes,C00633,HMDB0011718
+3_Methyladipic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,,HMDB0000555
+Indole_3_acetamide,Organoheterocyclic compounds,Indoles and derivatives,Indoles,3-alkylindoles,C02693,HMDB0029739
+3_Hydroxyphenylacetic_acid,Benzenoids,Phenols,1-hydroxy-4-unsubstituted benzenoids,1-hydroxy-4-unsubstituted benzenoids,C05593,HMDB0000440
+Salicyluric_acid,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Hippuric acids,C07588,HMDB0000840
+Vitamin_B7,Organoheterocyclic compounds,Biotin and derivatives,,Biotin and derivatives,C00120,HMDB0000030
+Ortho_Hydroxyphenylacetic_acid,Benzenoids,Benzene and substituted derivatives,Phenylacetic acids,2(hydroxyphenyl)acetic acids,C05852,HMDB0000669
+Pentadecanoic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,C16537,HMDB0000826
+Indole_3_lactic_Acid,Organoheterocyclic compounds,Indoles and derivatives,Indolyl carboxylic acids and derivatives,Indolyl carboxylic acids and derivatives,C02043,HMDB0000671
+6_Methylthiopurine,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,6-thiopurines,C16614,HMDB0060412
+3_Hydroxybenzaldehyde,,,,,C03067,
+Salicylamide,Benzenoids,Phenols,1-hydroxy-4-unsubstituted benzenoids,1-hydroxy-4-unsubstituted benzenoids,,HMDB0015687
+3_4_Hydroxyphenylpropionic_acid,Phenylpropanoids and polyketides,Phenylpropanoic acids,,Phenylpropanoic acids,C01744,HMDB0002199
+Benzoic_acid,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Benzoic acids,C00539,HMDB0001870
+3_5_Diiodo_tyrosine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Tyrosine and derivatives,C01060,HMDB0003474
+4_Hydroxycinnamic_acid,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Hydroxycinnamic acids and derivatives,Hydroxycinnamic acids,C00811,HMDB0002035
+Cinnavalininate,Organoheterocyclic compounds,Benzoxazines,Phenoxazines,Phenoxazines,C05640,HMDB0004078
+Phenyllactic_acid,Phenylpropanoids and polyketides,Phenylpropanoic acids,,Phenylpropanoic acids,C05607,HMDB0000779
+2_Hydroxycaproic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,,HMDB0001624
+5_6_Dimethylbenzimidazole,Organoheterocyclic compounds,Benzimidazoles,,Benzimidazoles,C03114,HMDB0003701
+N_acetyltryptophan,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",N-acyl-L-alpha-amino acids,,HMDB0013713
+N_Acetylleucine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Leucine and derivatives,C02710,HMDB0011756
+N_Acetylphenylalanine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Phenylalanine and derivatives,C03519,HMDB0000512
+Indole_3_carboxaldehyde,Organoheterocyclic compounds,Indoles and derivatives,Indoles,Indoles,C08493,HMDB0029737
+Kynurenate,Organoheterocyclic compounds,Quinolines and derivatives,Quinoline carboxylic acids,Quinoline carboxylic acids,C01717,HMDB0000715
+trans_Ferulic_acid,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Hydroxycinnamic acids and derivatives,Hydroxycinnamic acids,C01494,HMDB0000954
+Indole,Organoheterocyclic compounds,Indoles and derivatives,Indoles,Indoles,C00463,HMDB0000738
+Suberic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,C08278,HMDB0000893
+Dethiobiotin,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,C01909,HMDB0003581
+Melatonine,Organoheterocyclic compounds,Indoles and derivatives,Indoles,3-alkylindoles,C01598,HMDB0001389
+5_Valerolactone,Organoheterocyclic compounds,Lactones,Delta valerolactones,Delta valerolactones,C02240,HMDB0250981
+2_4_Dihydroxyacetophenone,Organic oxygen compounds,Organooxygen compounds,Carbonyl compounds,Alkyl-phenylketones,C03663,HMDB0029659
+Resorcinol_monoacetate,Benzenoids,Phenol esters,,Phenol esters?,C12064,HMDB0257165
+Indoleacetic_acid,Organoheterocyclic compounds,Indoles and derivatives,Indolyl carboxylic acids and derivatives,Indole-3-acetic acid derivatives,C00954,HMDB0000197
+3_2_Hydroxyphenylpropanoic_acid,Phenylpropanoids and polyketides,Phenylpropanoic acids,,Phenylpropanoic acids,C01198,HMDB0033752
+Rosmarinic_acid,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Hydroxycinnamic acids and derivatives,Coumaric acids and derivatives,C01850,HMDB0003572
+2_Hydroxycinnamic_acid,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Hydroxycinnamic acids and derivatives,Hydroxycinnamic acids,C01772,HMDB0002641
+Tryptophanol,Organoheterocyclic compounds,Indoles and derivatives,Indoles,3-alkylindoles,C00955,HMDB0003447
+Methyl_vanillate,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,M-methoxybenzoic acids and derivatives,,HMDB0240266
+3_Methyloxindole,Organoheterocyclic compounds,Indoles and derivatives,Indolines,Indolines,C02366,HMDB0304943
+p_Cresyl_sulfate,Organic acids and derivatives,Organic sulfuric acids and derivatives,Arylsulfates,Phenylsulfates,,HMDB0011635
+Azelaic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,C08261,HMDB0000784
+Indoleacrylic_acid,Organoheterocyclic compounds,Indoles and derivatives,Indoles,Indoles,,HMDB0000734
+3_Indolepropionic_acid,Organoheterocyclic compounds,Indoles and derivatives,Indolyl carboxylic acids and derivatives,Indolyl carboxylic acids and derivatives,,HMDB0002302
+Lumichrome,Organoheterocyclic compounds,Pteridines and derivatives?,Alloxazines and isoalloxazines? ,Flavins,C01727,HMDB0254199
+Lipoamide,Organoheterocyclic compounds,Dithiolanes,Lipoamides,Lipoamides,C00248,HMDB0000962
+Hydrocinnamic_acid,Phenylpropanoids and polyketides,Phenylpropanoic acids,,Phenylpropanoic acids,C05629,HMDB0000764
+2_Phenylpropionic_acid,Phenylpropanoids and polyketides,Phenylpropanoic acids,,Phenylpropanoic acids,,HMDB0011743
+Equol,Phenylpropanoids and polyketides,Isoflavonoids,Isoflavans,Isoflavanols,C14131,HMDB0002209
+Indole_3_methyl_acetate,Organoheterocyclic compounds,Indoles and derivatives,Indolyl carboxylic acids and derivatives,Indole-3-acetic acid derivatives,,HMDB0029738
+Sebacic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,C08277,HMDB0000792
+trans_Cinnamate,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acids,Cinnamic acids,C00423,HMDB0000930
+Cortisone,Lipids and lipid-like molecules,Steroids and steroid derivatives,Hydroxysteroids,21-hydroxysteroids,C00762,HMDB0002802
+3_Phenylbutyric_acid,Phenylpropanoids and polyketides,Phenylpropanoic acids,,Phenylpropanoic acids,,HMDB0001955
+Benzenebutanoic_acid,Benzenoids,Benzene and substituted derivatives,,Benzene and substituted derivatives,,HMDB0000543
+Cortisol,Lipids and lipid-like molecules,Steroids and steroid derivatives,Hydroxysteroids,21-hydroxysteroids,C00735,HMDB0000063
+3_Methylindole,Organoheterocyclic compounds,Indoles and derivatives,Indoles,3-methylindoles,C08313,HMDB0000466
+10_Hydroxydecanoate,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,C02774,HMDB0244272
+Tauro_alpha_muricholic_acid_alpha_TMCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Taurinated bile acids and derivatives,,HMDB0258742
+Tauro_alpha_muricholic_acid_omega_TMCA,,,,,,
+Tauro_beta_muricholic_acid_beta_TMCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Taurinated bile acids and derivatives,,HMDB0000932
+Ethyl_3_indoleacetate,,,,,,
+Liothyronine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Phenylalanine and derivatives,C02465,HMDB0000265
+Corticosterone,Lipids and lipid-like molecules,Steroids and steroid derivatives,Hydroxysteroids,21-hydroxysteroids,C02140,HMDB0001547
+1_Hydroxy_2_naphthoate,,,,,C03203,HMDB0243892
+Cortexolone,Lipids and lipid-like molecules,Steroids and steroid derivatives,Hydroxysteroids,21-hydroxysteroids,C05488,HMDB0000015
+Taurohyodeoxycholic_acid,,,,,,
+Ursocholic_acid_UCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives","Trihydroxy bile acids, alcohols and derivatives",C17644,HMDB0000917
+Glycochenodeoxycholic_acid_GCDCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Glycinated bile acids and derivatives,C05466,HMDB0000637
+Glycoursodeoxycholic_acid_GUDCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Glycinated bile acids and derivatives,,HMDB0000708
+7_Dehydrocholic_acid_7_DHCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives","Dihydroxy bile acids, alcohols and derivatives",C04643,HMDB0000391
+Pregnenolone_sulfate,Lipids and lipid-like molecules,Steroids and steroid derivatives,Sulfated steroids,Sulfated steroids,C18044,HMDB0000774
+Beta_Muricholic_acid_beta_MCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives","Trihydroxy bile acids, alcohols and derivatives",C17726,HMDB0000415
+Glycocholic_acid_GCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Glycinated bile acids and derivatives,C01921,HMDB0000138
+Murideoxycholic_acid,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives","Dihydroxy bile acids, alcohols and derivatives",C15515,HMDB0000811
+Glycolithocholic_acid_3_Sulfate,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Glycinated bile acids and derivatives,C11301,HMDB0002639
+3_Dehydrocholic_acid_3_DHCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives","Dihydroxy bile acids, alcohols and derivatives",,HMDB0000502
+Taurochenodeoxycholic_acid_TCDCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Taurinated bile acids and derivatives,C05465,HMDB0000951
+Chenodeoxycholic_acid_CDCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives","Dihydroxy bile acids, alcohols and derivatives",C02528,HMDB0000518
+Ursodeoxycholic_acid_UDCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives","Dihydroxy bile acids, alcohols and derivatives",C07880,HMDB0000946
+Beta_Ursodeoxycholic_acid_beta_UDCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives","Dihydroxy bile acids, alcohols and derivatives",C17662,HMDB0000686
+Hyocholic_acid_HCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives","Trihydroxy bile acids, alcohols and derivatives",,HMDB0000760
+7_Ketolithocholic_acid_7_KLCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives","Monohydroxy bile acids, alcohols and derivatives",,HMDB0000467
+Taurodeoxycholic_acid_TDCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Taurinated bile acids and derivatives,C05463,HMDB0000896
+Beta_Hyodeoxycholic_acid_beta_HDCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives","Dihydroxy bile acids, alcohols and derivatives",,HMDB0000664
+Glycohyodeoxycholic_acid,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Glycinated bile acids and derivatives,,HMDB0304944
+Undecylenic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,C13910,HMDB0033724
+Omega_muricholic_acid_omega_MCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives","Trihydroxy bile acids, alcohols and derivatives",C17727,HMDB0000364
+Cholic_acid_CA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives","Trihydroxy bile acids, alcohols and derivatives",C00695,HMDB0000619
+Glycodeoxycholic_acid_GDCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Glycinated bile acids and derivatives,C05464,HMDB0000631
+Undecanoic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,C17715,HMDB0000947
+Taurolithocholic_acid_TLCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Taurinated bile acids and derivatives,C02592,HMDB0000722
+Nordeoxycholic_acid_NorDCA,Lipids and lipid-like molecules,Steroids and steroid derivatives?,"Bile acids, alcohols and derivatives? ","Dihydroxy bile acids, alcohols and derivatives?",,HMDB0304947
+Apocholic_acid,,,,,C15375,
+Glycolithocholic_acid_GLCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",Glycinated bile acids and derivatives,C15557,HMDB0000698
+Deoxycholic_acid_DCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives","Dihydroxy bile acids, alcohols and derivatives",C04483,HMDB0000626
+Hyodeoxycholic_acid_HDCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives","Dihydroxy bile acids, alcohols and derivatives",C15517,HMDB0000733
+Ricinoleic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,C08365,HMDB0034297
+1_Oleylglycerol,Lipids and lipid-like molecules,Glycerolipids,Monoradylglycerols,1-monoacylglycerols,,HMDB0011567
+Isolithocholic_acid_IsoLCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives","Monohydroxy bile acids, alcohols and derivatives",C17658,HMDB0000717
+12Z_Tridecenoic_acid,,,,,,
+Isodeoxycholic_acid_IsoDCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives","Dihydroxy bile acids, alcohols and derivatives",C17661,HMDB0002536
+Dodecanoic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,C02679,HMDB0000638
+12_hydroxystearic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,,HMDB0061706
+Myristoleic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,C08322,HMDB0002000
+Lithocholic_acid_LCA,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives","Monohydroxy bile acids, alcohols and derivatives",,HMDB0000761
+Myristelaidic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,,HMDB0062248
+Tridecanoic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,C17076,HMDB0000910
+10Z_Pentadecenoic_Acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates?,Long-chain fatty acids,,HMDB0304816
+5Z_8Z_11Z_14Z_17Z_Eicosapentaenoic_Acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,C06428,HMDB0001999
+Myristic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,C06424,HMDB0000806
+Gamma_Linolenic_acid,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,Lineolic acids and derivatives,C06426,HMDB0003073
+Alpha_Linolenic_Acid,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,Lineolic acids and derivatives,C06427,HMDB0001388
+Palmitoylethanolamide,Organic acids and derivatives,Carboximidic acids and derivatives,Carboximidic acids,Carboximidic acids,C16512,HMDB0002100
+Palmitoleic_Acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,C08362,HMDB0003229
+Palmitelaidic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,,HMDB0012328
+4Z_7Z_10Z_13Z_16Z_19Z_Docosahexaenoic_Acid_DHA,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Very long-chain fatty acids,C06429,HMDB0002183
+Arachidonic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,C00219,HMDB0001043
+Retinoic_acid,Lipids and lipid-like molecules,Prenol lipids,Retinoids,Retinoids,C00777,HMDB0001852
+Linoelaidic_acid,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,Lineolic acids and derivatives,,HMDB0006270
+Linoleic_acid,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,Lineolic acids and derivatives,C01595,HMDB0000673
+Conjugated_linoleic_acids_CLA,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,Lineolic acids and derivatives,C04056,HMDB0005048
+10E_Heptadecenoic_acid,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,Phosphatidylcholines?,,HMDB0304753
+10Z_Heptadecenoic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,,HMDB0060038
+4Z_7Z_10Z_13Z_16Z_Docosapentaenoic_Acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Very long-chain fatty acids,,HMDB0001976
+Dihomo_gamma_linolenic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,C03242,HMDB0002925
+11Z_14Z_17Z_Eicosatrienoic_Acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,C16522,HMDB0244373
+Palmitic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,C00249,HMDB0000220
+10Z_13Z_Nonadecadienoic_acid,,,,,,
+7Z_10Z_13Z_16Z_Docosatetraenoic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Very long-chain fatty acids,C16527,HMDB0002226
+Oleic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,C00712,HMDB0000207
+Elaidic_Acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,C01712,HMDB0000573
+Petroselinic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,C08363,HMDB0002080
+Heptadecanoic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,,HMDB0002259
+10Z_Nonadecaenoic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,C00174,HMDB0013622
+Stearic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,C01530,HMDB0000827
+11Z_Eicosenoic_Acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,C16526,HMDB0002231
+13Z_16Z_Docosadienoic_Acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Very long-chain fatty acids,C16533,HMDB0061714
+Erucic_Acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Very long-chain fatty acids,C08316,HMDB0002068
+Heneicosanoic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,,HMDB0002345
+Docosanoic_Acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Very long-chain fatty acids,C08281,HMDB0000944
+Propionylcarnitine,Lipids and lipid-like molecules,Fatty Acyls  ,Fatty acid esters,Acyl carnitines,C03017,HMDB0000824
+Kyotorphin,Organic acids and derivatives,Carboxylic acids and derivatives  ,"Amino acids, peptides, and analogues",Peptides,C02993,HMDB0005768
+Tyrosyl_Alanine,Organic acids and derivatives,Carboxylic acids and derivatives  ,"Amino acids, peptides, and analogues",Dipeptides,,HMDB0029098
+Glycyltyrosine,Organic acids and derivatives,Carboxylic acids and derivatives  ,"Amino acids, peptides, and analogues",Peptides,,HMDB0028853
+Malonyl_L_carnitine,Lipids and lipid-like molecules,Fatty Acyls  ,Fatty acid esters,Acyl carnitines,,HMDB0002095
+Alanylglutamine,Organic acids and derivatives,Carboxylic acids and derivatives  ,"Amino acids, peptides, and analogues",Peptides,,HMDB0028685
+Glycyl_glycine,Organic acids and derivatives,Carboxylic acids and derivatives  ,"Amino acids, peptides, and analogues",Dipeptides,C02037,HMDB0011733
+Valylalanine,Organic acids and derivatives,Carboxylic acids and derivatives  ,"Amino acids, peptides, and analogues",Dipeptides,,HMDB0029120
+Glycylvaline,Organic acids and derivatives,Carboxylic acids and derivatives  ,"Amino acids, peptides, and analogues",Dipeptides,,HMDB0028854
+Glutarylcarnitine,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,Acyl carnitines,,HMDB0013130
+Fumaric_acid,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,Dicarboxylic acids and derivatives,C00122,HMDB0000134
+4_Pyridoxic_acid,Organoheterocyclic compounds,Pyridines and derivatives,Pyridinecarboxylic acids and derivatives,Pyridinecarboxylic acids,C00847,HMDB0000017
+Hypotaurine,Organic acids and derivatives,Sulfinic acids and derivatives,Sulfinic acids,Sulfinic acids,C00519,HMDB0000965
+Thiourea,Organosulfur compounds,Thioureas,,Thioureas,C14415,HMDB0034155
+Aniline_2_sulfonate,,,,,C06333,HMDB0304940
+Tryptophanamide,Organoheterocyclic compounds,Indoles and derivatives,Tryptamines and derivatives,Tryptamines and derivatives,C00977,HMDB0013318
+Uric_acid,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,Xanthines,C00366,HMDB0000289
+2_O_methyladenosine,"Nucleosides, nucleotides, and analogues",Purine nucleosides,,Purine nucleosides,C04779,HMDB0004326
+Thymine,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Hydroxypyrimidines,C00178,HMDB0000262
+3_4_Dihydroxyphenylglycol,Benzenoids,Phenols,Benzenediols,Catechols,C05576,HMDB0000318
+Thymidine,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides,Pyrimidine 2'-deoxyribonucleosides,Pyrimidine 2'-deoxyribonucleosides,C00214,HMDB0000273
+Uracil,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Pyrimidones,C00106,HMDB0000300
+Pyridoxine,Organoheterocyclic compounds,Pyridines and derivatives,Pyridoxines,Pyridoxines,C00314,HMDB0000239
+Deoxyuridine,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides,Pyrimidine 2'-deoxyribonucleosides,Pyrimidine 2'-deoxyribonucleosides,C00526,HMDB0000012
+Homogentisic_acid,Benzenoids,Benzene and substituted derivatives,Phenylacetic acids,2(hydroxyphenyl)acetic acids,C00544,HMDB0000130
+Hordenine,Benzenoids,Benzene and substituted derivatives,Phenethylamines,Phenethylamines,C06199,HMDB0004366
+1_Methyladenosine,"Nucleosides, nucleotides, and analogues",Purine nucleosides,,Purine nucleosides,C02494,HMDB0003331
+Purine,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,Purines and purine derivatives,C15587,HMDB0001366
+Deoxyadenosine,"Nucleosides, nucleotides, and analogues",Purine nucleosides,Purine 2'-deoxyribonucleosides,Purine 2'-deoxyribonucleosides,C00559,HMDB0000101
+N6_methyladenosine,"Nucleosides, nucleotides, and analogues",Purine nucleosides,,Purine nucleosides,,HMDB0004044
+Adenine,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,6-aminopurines,C00147,HMDB0000034
+Quinoline_4_carboxylic_acid,Organoheterocyclic compounds,Quinolines and derivatives,Quinoline carboxylic acids?,Quinoline carboxylic acids,C06414,HMDB0257047
+Hypoxanthine,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,Hypoxanthines,C00262,HMDB0000157
+Adenosine,"Nucleosides, nucleotides, and analogues",Purine nucleosides,,Purine nucleosides,C00212,HMDB0000050
+Uridine,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides,,Pyrimidine nucleosides,C00299,HMDB0000296
+3_Methyladenine,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,6-aminopurines,C00913,HMDB0011600
+Creatine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Alpha amino acids and derivatives,C00300,HMDB0000064
+Creatinine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Alpha amino acids and derivatives,C00791,HMDB0000562
+5_Methylcytosine,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Hydroxypyrimidines,C02376,HMDB0002894
+p_Aminobenzoic_acid,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Aminobenzoic acids,C00568,HMDB0001392
+3_Hydroxyisovaleric_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Hydroxy fatty acids,C20827,HMDB0000754
+p_Octopamine,Benzenoids,Phenols,1-hydroxy-2-unsubstituted benzenoids,1-hydroxy-2-unsubstituted benzenoids,C04227,HMDB0004825
+Cytosine,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Pyrimidones,C00380,HMDB0000630
+Vitamin_B2,Organoheterocyclic compounds,Pteridines and derivatives,Alloxazines and isoalloxazines,Flavins,C00255,HMDB0000244
+Pterin,Organoheterocyclic compounds,Pteridines and derivatives,Pterins and derivatives,Pterins and derivatives,C00715,HMDB0000802
+5_Amino_4_carbamoylimidazole_AICA,Organoheterocyclic compounds,Azoles,Imidazoles,Aminoimidazoles,C04051,HMDB0003192
+Deoxycytidine,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides,Pyrimidine 2'-deoxyribonucleosides,Pyrimidine 2'-deoxyribonucleosides,C00881,HMDB0000014
+Phenylacetylglutamine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",N-acyl-alpha amino acids,C04148,HMDB0006344
+Acetylcholine,Organic nitrogen compounds,Organonitrogen compounds,Quaternary ammonium salts,Acyl cholines,C01996,HMDB0000895
+Allantoin,Organoheterocyclic compounds,Azoles,Imidazoles,Imidazoles,C01551,HMDB0000462
+2_Hydroxybutyric_acid,Organic acids and derivatives,Hydroxy acids and derivatives,Alpha hydroxy acids and derivatives,Alpha hydroxy acids and derivatives,C05984,HMDB0000008
+Alpha_Hydroxyisobutyric_acid,Organic acids and derivatives,Hydroxy acids and derivatives,Alpha hydroxy acids and derivatives,Alpha hydroxy acids and derivatives,,HMDB0000729
+Methyl_beta_D_glucopyranoside,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,O-glycosyl compounds,C03619,HMDB0029965
+Nicotinic_acidVB3,Organoheterocyclic compounds,Pyridines and derivatives,Pyridinecarboxylic acids and derivatives,Pyridinecarboxylic acids,C00253,HMDB0001488
+Inosine,"Nucleosides, nucleotides, and analogues",Purine nucleosides,,Purine nucleosides,C00294,HMDB0000195
+Guanine,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,Purines and purine derivatives,C00242,HMDB0000132
+Deoxyguanosine,"Nucleosides, nucleotides, and analogues",Purine nucleosides,Purine 2'-deoxyribonucleosides,Purine 2'-deoxyribonucleosides,C00330,HMDB0000085
+Mevalonic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Hydroxy fatty acids,C00418,HMDB0000227
+Orotic_acid,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Pyrimidinecarboxylic acids,C00295,HMDB0000226
+Xanthine,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,Xanthines,C00385,HMDB0000292
+4_Aminohippuric_acid,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Hippuric acids,D06890,HMDB0001867
+Cytidine,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides,,Pyrimidine nucleosides,C00475,HMDB0000089
+Picolinic_acid,Organoheterocyclic compounds,Pyridines and derivatives,Pyridinecarboxylic acids and derivatives,Pyridinecarboxylic acids,C10164,HMDB0002243
+Leucyl_Glycine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Dipeptides,,HMDB0028929
+Pyridoxamine,Organoheterocyclic compounds,Pyridines and derivatives,Pyridoxamines,Pyridoxamine 5'-phosphates,C00534,HMDB0001431
+3_Amino_4_hydroxybenzoate,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Hydroxybenzoic acid derivatives,C12115,HMDB0304941
+Phenylalanine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Phenylalanine and derivatives,C00079,HMDB0000159
+Tryptophan,Organoheterocyclic compounds,Indoles and derivatives,Indolyl carboxylic acids and derivatives,Indolyl carboxylic acids and derivatives,C00078,HMDB0000929
+Lactate,Organic acids and derivatives,Hydroxy acids and derivatives,Alpha hydroxy acids and derivatives,Alpha hydroxy acids and derivatives,C00186,HMDB0000190
+N_Acetylmannosamine,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Acylaminosugars,C00645,HMDB0001129
+Adenosine_2_3_cyclic_phosphate,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Cyclic purine nucleotides,"2',3'-cyclic purine nucleotides",C02353,HMDB0011616
+3_Hydroxybutyric_acid,Organic acids and derivatives,Hydroxy acids and derivatives,Beta hydroxy acids and derivatives,Beta hydroxy acids and derivatives,C01089,HMDB0000011
+Protirelin,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Oligopeptides,C03958,HMDB0060080
+6_Hydroxynicotinic_acid,Organoheterocyclic compounds,Pyridines and derivatives,Pyridinecarboxylic acids and derivatives,Pyridinecarboxylic acids,C01020,HMDB0002658
+3_Methoxytyrosine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Tyrosine and derivatives,,HMDB0001434
+Alpha_aminobutyric_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Beta amino acids and derivatives,C05145,HMDB0003911
+Kynurenine,Organic oxygen compounds,Organooxygen compounds,Carbonyl compounds,Alkyl-phenylketones,C00328,HMDB0000684
+4_5_Dihydroorotic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Alpha amino acids and derivatives,C00337,HMDB0003349
+Urocanic_acid,Organoheterocyclic compounds,Azoles,Imidazoles,Imidazolyl carboxylic acids and derivatives,C00785,HMDB0000301
+4_Acetamidobutanoic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Gamma amino acids and derivatives,C02946,HMDB0003681
+Guanosine,"Nucleosides, nucleotides, and analogues",Purine nucleosides,,Purine nucleosides,C00387,HMDB0000133
+Xanthosine,"Nucleosides, nucleotides, and analogues",Purine nucleosides,,Purine nucleosides,C01762,HMDB0000299
+Leucine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Leucine and derivatives,C00123,HMDB0000687
+Norleucine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,C01933,HMDB0001645
+Imidazoleacetic_acid,Organoheterocyclic compounds,Azoles,Imidazoles,Imidazolyl carboxylic acids and derivatives,C02835,HMDB0002024
+2_Phenylglycine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Alpha amino acids,,HMDB0002210
+N_Acetylalanine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",N-acyl-L-alpha-amino acids,,HMDB0000766
+D_Pinitol,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,Cyclohexanols,C03844,HMDB0034219
+Ureidopropionic_acid,Organic acids and derivatives,Organic carbonic acids and derivatives,Ureas,Ureas,C02642,HMDB0000026
+Alloisoleucine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Isoleucine and derivatives,,HMDB0000557
+Isoleucine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Isoleucine and derivatives,C00407,HMDB0000172
+Glycylleucine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Peptides,C02155,HMDB0000759
+N_Acetylproline,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Proline and derivatives,,HMDB0094701
+Methylguanidine,Organic nitrogen compounds,Organonitrogen compounds,Guanidines,Guanidines,C02294,HMDB0001522
+Pantothenic_acidVB5,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,Secondary alcohols,C00864,HMDB0000210
+Methionine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Methionine and derivatives,C00073,HMDB0000696
+Betaine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Alpha amino acids,C00719,HMDB0000043
+Diethanolamine,Organic nitrogen compounds,Organonitrogen compounds,Amines,"1,2-aminoalcohols",C06772,HMDB0004437
+Adenosine_3_5_cyclic_monophosphatecAMP,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Cyclic purine nucleotides,"3',5'-cyclic purine nucleotides",C00575,HMDB0000058
+Hydroxypropionic_acid,Organic acids and derivatives,Hydroxy acids and derivatives,Beta hydroxy acids and derivatives,Beta hydroxy acids and derivatives,C01013,HMDB0000700
+Acetylglycine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",N-acyl-alpha amino acids,,HMDB0000532
+Trigonelline,Alkaloids and derivatives,,,Alkaloids and derivatives,C01004,HMDB0000875
+Choline,Organic nitrogen compounds,Organonitrogen compounds,Quaternary ammonium salts,Cholines,C00114,HMDB0000097
+Sorbitol,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Sugar alcohols,C00749,HMDB0000247
+Guanosine_3_5_cyclic_monophosphateCyclic_GMP,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Cyclic purine nucleotides,"3',5'-cyclic purine nucleotides",C00942,HMDB0001314
+Threonic_acid,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Sugar acids and derivatives,C01620,HMDB0000943
+N_Acetylputrescine,Organic acids and derivatives,Carboximidic acids and derivatives,Carboximidic acids,Carboximidic acids,C02714,HMDB0002064
+Sepiapterin,Organoheterocyclic compounds,Pteridines and derivatives ,Pterins and derivatives,Pterins and derivatives,C00835,HMDB0000238
+Norvaline,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",D-alpha-amino acids,C01799,HMDB0013716
+Mannitol,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Sugar alcohols,C00392,HMDB0000765
+Dimethylamine,Organic nitrogen compounds,Organonitrogen compounds,Amines,Dialkylamines,C00543,HMDB0000087
+Imidazole_Propionate,Organoheterocyclic compounds,Azoles,Imidazoles,Imidazolyl carboxylic acids and derivatives,C20522,HMDB0002271
+Acetylcarnitine,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,Acyl carnitines,C02571,HMDB0000201
+N_Acetylglutamine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Glutamine and derivatives,,HMDB0006029
+3_Methylhistamine,Organic nitrogen compounds,Organonitrogen compounds,Amines,2-arylethylamines,,HMDB0001861
+5_Hydroxy_tryptophan,Organoheterocyclic compounds,Indoles and derivatives,Tryptamines and derivatives,Serotonins,C00643,HMDB0000472
+D_Mannosamine,,,,,C03570,
+N2_N2_Dimethylguanosine,"Nucleosides, nucleotides, and analogues",Purine nucleosides,,Purine nucleosides,,HMDB0004824
+Histidinol,Organic nitrogen compounds,Organonitrogen compounds,Amines,Aralkylamines,C00860,HMDB0003431
+Valine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Valine and derivatives,C00183,HMDB0000883
+Tyrosine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Tyrosine and derivatives,C00082,HMDB0000158
+Dimethylglycine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Alpha amino acids,C01026,HMDB0000092
+Galactitol,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Sugar alcohols,C01697,HMDB0000107
+Taurine,Organic acids and derivatives,Organic sulfonic acids and derivatives,Organosulfonic acids and derivatives,Organosulfonic acids,C00245,HMDB0000251
+Pyroglutamic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Alpha amino acids and derivatives,C01879,HMDB0000267
+Vitamin_B1,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Thiamines,C00378,HMDB0000235
+Pipecolic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,C00408,HMDB0000716
+N_Methylalanine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Alanine and derivatives,C02721,HMDB0094692
+Proline,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Proline and derivatives,C00148,HMDB0000162
+Glucosamine,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Hexoses,C00329,HMDB0001514
+Histamine,Organic nitrogen compounds,Organonitrogen compounds,Amines,2-arylethylamines,C00388,HMDB0000870
+Trimethylamine_N_oxide,Organic nitrogen compounds,Organonitrogen compounds,Aminoxides,Trialkyl amine oxides,C01104,HMDB0000925
+2_Aminoisobutyric_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Alpha amino acids,C03665,HMDB0001906
+Galactosamine,,,,,C02262,HMDB0245095
+1_Aminocyclopropanecarboxylic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Alpha amino acids,C01234,HMDB0036458
+Erythronic_acid,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Sugar acids and derivatives,,HMDB0000613
+2_Aminooctanoic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Alpha amino acids,,HMDB0000991
+N_Acetylasparagine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Asparagine and derivatives,,HMDB0006028
+Ethylmalonic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Branched fatty acids,,HMDB0000622
+Sarcosine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Alpha amino acids,C00213,HMDB0000271
+1_Methylhistidine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Histidine and derivatives,C01152,HMDB0000001
+Cytidine_2_3_cyclic_phosphate,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Peptides,C02354,HMDB0011691
+Abrine,,,,,C02983,
+Hydroxyproline,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Proline and derivatives,C01157,HMDB0000725
+Beta_Alanine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Beta amino acids and derivatives,C00099,HMDB0000056
+Alanine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Alanine and derivatives,C00041,HMDB0000161
+4_Guanidinobutanoic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Gamma amino acids and derivatives,C01035,HMDB0003464
+Ribonic_acid,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Sugar acids and derivatives,C01685,HMDB0000867
+Quinic_acid,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,Quinic acids and derivatives,C00296,HMDB0003072
+Carnitine,Organic nitrogen compounds,Organonitrogen compounds,Quaternary ammonium salts,Carnitines,C00318,HMDB0000062
+Threonine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,C00188,HMDB0000167
+Guanidoacetic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Alpha amino acids and derivatives,C00581,HMDB0000128
+cis_4_Hydroxy_D_proline,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Proline and derivatives,C03440,HMDB0060460
+5_Aminolevulinic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Delta amino acids and derivatives,C00430,HMDB0001149
+Homoserine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,C00263,HMDB0000719
+Methionine_sulfoximine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Alpha amino acids,C03510,HMDB0029430
+4_Trimethylammoniobutanoic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Straight chain fatty acids,C01181,HMDB0001161
+Glycine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Alpha amino acids,C00037,HMDB0000123
+3_Methylhistidine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Histidine and derivatives,C01152,HMDB0000479
+Glycylproline,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Dipeptides,,HMDB0000721
+Shikimic_acid,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,Shikimic acids and derivatves,C00493,HMDB0003070
+Glutamine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,C00064,HMDB0000641
+3_Hydroxymethylglutaric_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Hydroxy fatty acids,C03761,HMDB0000355
+5_Aminopentanoic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Delta amino acids and derivatives,C00431,HMDB0003355
+Histidine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Histidine and derivatives,C00135,HMDB0000177
+alpha_Ketoglutaric_acid,Organic acids and derivatives,Keto acids and derivatives,Gamma-keto acids and derivatives,Gamma-keto acids and derivatives,C00026,HMDB0000208
+Gamma_Aminobutyric_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Gamma amino acids and derivatives,C00334,HMDB0000112
+Serine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Serine and derivatives,C00065,HMDB0000187
+Asparagine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Asparagine and derivatives,C00152,HMDB0000168
+3_7_Dimethyluric_acid,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,Xanthines,C16360,HMDB0001982
+N_Alpha_acetyllysine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",N-acyl-alpha amino acids,C12989,HMDB0000446
+Cellobiose,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,O-glycosyl compounds,C06422,HMDB0000055
+myo_Inositol,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,Cyclohexanols,C00137,HMDB0000211
+Homocitrulline,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,C02427,HMDB0000679
+O_Succinyhomoserine,,,,,C01118,
+Methylsuccinic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Methyl-branched fatty acids,C08645,HMDB0001844
+Glutaric_acid,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,Dicarboxylic acids and derivatives,C00489,HMDB0000661
+N_Methyl_aspartic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aspartic acid and derivatives,C12269,HMDB0002393
+Gluconic_acid,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Sugar acids and derivatives,C00257,HMDB0000625
+Itaconic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Branched fatty acids,C00490,HMDB0002092
+N_methyl_glutamic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Glutamic acid and derivatives,C01046,HMDB0062660
+Cysteic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Alpha amino acids,C00506,HMDB0002757
+Aminocaproic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,C02378,HMDB0001901
+Lactulose,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,O-glycosyl compounds,C07064,HMDB0000740
+Lactose,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,O-glycosyl compounds,C00243,HMDB0000186
+Citrulline,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,C00327,HMDB0000904
+Quinolinic_Acid,Organoheterocyclic compounds,Pyridines and derivatives,Pyridinecarboxylic acids and derivatives,Pyridinecarboxylic acids,C03722,HMDB0000232
+S_Carboxymethyl_cysteine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Cysteine and derivatives,C03727,HMDB0029415
+Citramalic_acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Hydroxy fatty acids,C00815,HMDB0000426
+Trehalose,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,O-glycosyl compounds,C01083,HMDB0000975
+Malonic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,Dicarboxylic acids and derivatives,C04025,HMDB0000691
+Propionylglycine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",N-acyl-alpha amino acids,,HMDB0000783
+2_3_Diaminopropionic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,C03401,HMDB0002006
+Succinic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,Dicarboxylic acids and derivatives,C00042,HMDB0000254
+D_2_Hydroxyglutaric_acid,Organic acids and derivatives,Hydroxy acids and derivatives,Short-chain hydroxy acids and derivatives,Short-chain hydroxy acids and derivatives,C01087,HMDB0000606
+N_Acetylaspartic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aspartic acid and derivatives,C01042,HMDB0000812
+N_Acetylglutamic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Glutamic acid and derivatives,C00624,HMDB0001138
+Ophthalmic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Oligopeptides,C21016,HMDB0005765
+Glutamic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Glutamic acid and derivatives,C00025,HMDB0000148
+Anserine,Organic acids and derivatives,Peptidomimetics,Hybrid peptides,Hybrid peptides,C01262,HMDB0000194
+D_Glucosaminic_acid,Organic acids and derivatives?,Carboxylic acids and derivatives?,"Amino acids, peptides, and analogues? ",Alpha amino acids?,C03752,HMDB0250755
+Malic_acid,Organic acids and derivatives,Hydroxy acids and derivatives,Beta hydroxy acids and derivatives,Beta hydroxy acids and derivatives,C00149,HMDB0000156
+Aspartic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aspartic acid and derivatives,C00049,HMDB0000191
+Galacturonic_acid,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Glucuronic acid derivatives,C08348,HMDB0002545
+Oxalic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,Dicarboxylic acids and derivatives,C00209,HMDB0002329
+Gama_glutamylalanine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Dipeptides,C03740,HMDB0006248
+Homocysteine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,C00155,HMDB0000742
+N_Acetylcadaverine,Organic acids and derivatives,Carboxylic acids and derivatives,Carboxylic acid derivatives,Acetamides,,HMDB0002284
+Carnosine,Organic acids and derivatives,Peptidomimetics,Hybrid peptides,Hybrid peptides,C00386,HMDB0000033
+Aminoadipic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,C00956,HMDB0000510
+Asymmetric_dimethylarginine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Arginine and derivatives,C03626,HMDB0001539
+Thymideine_monophosphatedTMP,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleotides,Pyrimidine deoxyribonucleotides,Pyrimidine 2'-deoxyribonucleoside monophosphates,C00364,HMDB0001227
+meso_Tartaric_acid,,,,,C00552,
+2_Deoxyadenosine_5_monophosphatedAMP,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Purine deoxyribonucleotides,Purine 2'-deoxyribonucleoside monophosphates,C00360,HMDB0000905
+Raffinose,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,C00492,HMDB0003213
+Beta_Glycerophosphoric_acid,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,Glycerophosphates,C02979,HMDB0002520
+Cystine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-cysteine-S-conjugates,C00491,HMDB0000192
+S_Adenosylmethionine,"Nucleosides, nucleotides, and analogues",5'-deoxyribonucleosides,5'-deoxy-5'-thionucleosides,5'-deoxy-5'-thionucleosides,C00019,HMDB0001185
+2_Deoxyuridine_5_phosphatedUMP,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleotides,Pyrimidine deoxyribonucleotides,Pyrimidine 2'-deoxyribonucleoside monophosphates,C00365,HMDB0001409
+Glucaric_acid,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Glucuronic acid derivatives,C00818,HMDB0000663
+Adenosine_diphosphate_riboseADP_ribose,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Purine nucleotide sugars,Purine nucleotide sugars,C00301,HMDB0001178
+Adenosine_monophosphate_AMP,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Purine ribonucleotides,Purine ribonucleoside monophosphates,C00020,HMDB0000045
+Vitamin_B9,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Glutamic acid and derivatives,C00504,HMDB0000121
+Cystathionine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-cysteine-S-conjugates,C02291,HMDB0000099
+Glycerol_3_phosphate,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,Glycerophosphates,C00093,HMDB0000126
+Nicotinuric_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",N-acyl-alpha amino acids,C05380,HMDB0003269
+Citicoline,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleotides,Pyrimidine ribonucleotides,Pyrimidine ribonucleoside diphosphates,C00307,HMDB0001413
+cis_Aconitic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,Tricarboxylic acids and derivatives,Tricarboxylic acids and derivatives,C00417,HMDB0000072
+Uridine_5_monophosphateUMP,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleotides,Pyrimidine ribonucleotides,Pyrimidine ribonucleoside monophosphates,C00105,HMDB0000288
+2_Deoxycytidine_5_monophosphatedCMP,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleotides,Pyrimidine deoxyribonucleotides,Pyrimidine 2'-deoxyribonucleoside monophosphates,C00239,HMDB0001202
+Galactaric_acid,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Glucuronic acid derivatives,C00879,HMDB0000639
+2_6_Diaminopimelic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,C00666,HMDB0001370
+D_Ribose_5_phosphate,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Pentose phosphates,C00117,HMDB0001548
+Inosine_monophosphateIMP,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Purine ribonucleotides,Purine ribonucleoside monophosphates,C00130,HMDB0000175
+O_Phosphoethanolamine,Organic acids and derivatives,Organic phosphoric acids and derivatives,Phosphate esters,Phosphoethanolamines,C00346,HMDB0000224
+Nicotinamide_ribotide,"Nucleosides, nucleotides, and analogues",Pyridine nucleotides,Nicotinamide nucleotides,Nicotinamide nucleotides,C00455,HMDB0000229
+Ciliatine,Organic acids and derivatives,Organic phosphonic acids and derivatives,Organic phosphonic acids,Organic phosphonic acids,C03557,HMDB0011747
+trans_Aconitic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,Tricarboxylic acids and derivatives,Tricarboxylic acids and derivatives,C02341,HMDB0000958
+Trimethyllysine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,C03793,HMDB0001325
+Mannose_6_phosphate,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Hexose phosphates,C00275,HMDB0001078
+Fructose_6_phosphate,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Hexose phosphates,C00085,HMDB0000124
+Glucose_1_phosphate,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Monosaccharide phosphates,C00103,HMDB0001586
+Citric_acid,Organic acids and derivatives,Carboxylic acids and derivatives,Tricarboxylic acids and derivatives,Tricarboxylic acids and derivatives,C00158,HMDB0000094
+Cytidine_monophosphateCMP,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleotides,Pyrimidine ribonucleotides,Pyrimidine ribonucleoside monophosphates,C00055,HMDB0000095
+Phosphorylcholine,Organic nitrogen compounds,Organonitrogen compounds,Quaternary ammonium salts,Phosphocholines,C00588,HMDB0001565
+Guanosine_monophosphate_GMP,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Purine ribonucleotides,Purine ribonucleoside monophosphates,C00144,HMDB0001397
+Phosphoserine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,C01005,HMDB0000272
+2_Hydroxyadenine,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,6-aminopurines,,HMDB0000403
+_2_Deoxyadenosine_5_triphosphatedATP,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Purine deoxyribonucleotides,Purine 2'-deoxyribonucleoside triphosphates,C00131,HMDB0001532
+Uridine_5_diphosphateUDP,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleotides,Pyrimidine ribonucleotides,Pyrimidine ribonucleoside diphosphates,C00015,HMDB0000295
+Stachyose,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,C01613,HMDB0003553
+Glucose_6_phosphate_G6P,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Hexose phosphates,C00092,HMDB0001401
+7_methylguanosine,"Nucleosides, nucleotides, and analogues",Purine nucleosides ,,Purine nucleosides,,HMDB0001107
+Ornithine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,C00077,HMDB0000214
+Galactose_1_phosphate,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Monosaccharide phosphates,C00446,HMDB0000645
+Thiamine_monophosphate,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Thiamine phosphates,C01081,HMDB0002666
+Arginine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,C00062,HMDB0000517
+Xanthosine_5_phosphateXMP,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Purine ribonucleotides,Purine ribonucleoside monophosphates,C00655,HMDB0001554
+5_Hydroxylysine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,C16741,HMDB0000450
+Lysine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,C00047,HMDB0000182
+N6_Acetyllysine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids ,C02727,HMDB0000206
+1_3_Diaminopropane,Organic nitrogen compounds,Organonitrogen compounds,Amines,Monoalkylamines,C00986,HMDB0000002
+Sucrose,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,O-glycosyl compounds,C00089,HMDB0000258
+Methionine_sulfoxide,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,C02989,HMDB0002005
+2_keto_D_Gluconic_acid,,,,,C06473,
+Allantoic_acid,Organic acids and derivatives,Carboxylic acids and derivatives?,"Amino acids, peptides, and analogues",N-carbamoyl-alpha amino acids,C00499,HMDB0001209
+Glycerophosphocholine,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,Glycerophosphocholines,C00670,HMDB0000086
+gamma_Glutamyl_methionine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Dipeptides,,HMDB0034367
+gamma_Glutamyl_valine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Dipeptides,,HMDB0011172
+Isobutyryl_coenzyme_A_Isobutyryl_CoA,Lipids and lipid-like molecules,Fatty Acyls ,Fatty acyl thioesters,Acyl CoAs,C00630,HMDB0001243
+Ureidosuccinic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aspartic acid and derivatives ,C00438,HMDB0000828
+N_Acetylaspartylglutamic_acid_NAAG,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Dipeptides,C12270,HMDB0001067
+GDP_fucose,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Purine nucleotide sugars,Purine nucleotide sugars,C00325,HMDB0001095
+Argininosuccinic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aspartic acid and derivatives ,C03406,HMDB0000052
+Deoxycytidine_triphosphate_dCTP,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleotides,Pyrimidine deoxyribonucleotides,Pyrimidine 2'-deoxyribonucleoside triphosphates ,C00458,HMDB0000998
+Oxoadipic_acid,Organic acids and derivatives,Keto acids and derivatives,Medium-chain keto acids and derivatives,Medium-chain keto acids and derivatives,C00322,HMDB0000225
+Methylmalonic_acid,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,Dicarboxylic acids and derivatives,C02170,HMDB0000202
+Tyramine,Benzenoids,Benzene and substituted derivatives,Phenethylamines,Phenethylamines,C00483,HMDB0000306
+3_4_Dihydroxymandelic_acid,Benzenoids,Phenols,Benzenediols,Catechols,C05580,HMDB0001866
+Vanillylmandelic_acid,Benzenoids,Phenols,Methoxyphenols,Methoxyphenols,C05584,HMDB0000291
+5_Hydroxyindole_3_acetic_Acid,Organoheterocyclic compounds,Indoles and derivatives,Indolyl carboxylic acids and derivatives,Indole-3-acetic acid derivatives,C05635,HMDB0000763
