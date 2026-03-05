@@ -1,3 +1,5 @@
-inputData and Scripts used for 
+inputData and Scripts used for Tapeworm_gut_mcirobiome study
 
-`Wenjie Mu, Pingping Ma, Yugui Wang, Yaqi Li, Yingying Ding, Yang Zou, Lixia Pu, Qi Yan, Haoyue Kong, Xiaola Guo, Aijiang Guo, Hailong Li, Shuai Wang, Taeniasis impacts human gut microbiome composition and function, The ISME Journal, Volume 18, Issue 1, January 2024, wrae213, https://doi.org/10.1093/ismejo/wrae213`
+If you use codes or data, please cite
+> Wenjie Mu et al., Taeniasis impacts human gut microbiome composition and function, 
+*The ISME Journal*, Volume 18, Issue 1, January 2024, wrae213, https://doi.org/10.1093/ismejo/wrae213
